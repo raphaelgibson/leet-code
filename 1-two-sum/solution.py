@@ -18,4 +18,3 @@ class Solution:
             nums.pop()
             
         return result
-            
